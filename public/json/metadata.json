@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2025-04-23T06:08:33.780Z",
+  "totalAnime": 150,
+  "files": [
+    "latest-anime.json",
+    "popular-anime.json",
+    "new-releases-anime.json",
+    "anime-data.json"
+  ]
+}
